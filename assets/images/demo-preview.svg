@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="660" viewBox="0 0 880 660" role="img" aria-label="Miyaki demo preview">
+  <rect width="880" height="660" fill="#fbfbfd"/>
+  <rect x="0" y="0" width="880" height="52" fill="#fff" stroke="#e8e8ed"/>
+  <text x="40" y="34" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="18" font-weight="600" fill="#1d1d1f">Miyaki</text>
+  <rect x="280" y="120" width="320" height="200" rx="12" fill="#e8e8ed"/>
+  <text x="440" y="230" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="28" font-weight="600" fill="#1d1d1f">Essentials, refined.</text>
+  <rect x="40" y="380" width="250" height="200" rx="12" fill="#d2d2d7"/>
+  <rect x="315" y="380" width="250" height="200" rx="12" fill="#c7c7cc"/>
+  <rect x="590" y="380" width="250" height="200" rx="12" fill="#bcbcc0"/>
+</svg>
